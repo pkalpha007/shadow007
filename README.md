@@ -1,7 +1,3 @@
-Yes — you need **one complete `README.md` code** that you can copy-paste directly into your GitHub profile.
-
-Replace only `YOUR_USERNAME` with your GitHub username:
-
 ````markdown
 <div align="center">
 
