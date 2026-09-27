@@ -1,145 +1,147 @@
-````markdown
+````html
 <div align="center">
 
-# ⚡ SHADOW007 ⚡
+<img src="./shadow-banner.svg" width="100%" alt="SHADOW007 Futuristic Banner"/>
 
-### 🎮 GAMER | 💻 DEVELOPER | 🥷 ATOMIC CODER
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE+%E2%9A%A1;WELCOME+TO+THE+SHADOW+ZONE+%F0%9F%A5%B7;GAMING+%7C+CODING+%7C+GRINDING;NO+LIMITS.+ONLY+LEVEL+UPS.;ATOMIC+MODE+ACTIVATED+%F0%9F%94%A5" />
+### ⚡ GAMER // DEVELOPER // ATOMIC CODER ⚡
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff00" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;WELCOME+TO+THE+SHADOW+ZONE;GAMING+%7C+CODING+%7C+GRINDING;ATOMIC+MODE+ACTIVATED;NO+LIMITS.+ONLY+LEVEL+UPS." />
+
+<br/>
+
+`◈ SHADOW PROTOCOL ◈`　`⚡ POWER: 100%`　`🟢 STATUS: ONLINE`
 
 </div>
 
 ---
 
-## 🥷 `WHO AM I?`
+## 🥷 01 // IDENTITY PROTOCOL
 
 ```text
-╔══════════════════════════════════════╗
-║           SHADOW007.exe              ║
-╠══════════════════════════════════════╣
-║ 🎮 GAMER          : ONLINE            ║
-║ 💻 DEVELOPER      : ONLINE            ║
-║ ⚡ POWER          : ATOMIC             ║
-║ 🧠 BRAIN          : OVERCLOCKED       ║
-║ 🔥 GRIND          : 100%              ║
-║ 🥷 MODE           : SHADOW             ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                SHADOW007.exe                     ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  ◈ IDENTITY    :: SHADOW007                      ║
+║  ◈ ROLE        :: GAMER + DEVELOPER              ║
+║  ◈ POWER       :: ATOMIC                         ║
+║  ◈ BRAIN       :: OVERCLOCKED                    ║
+║  ◈ GRIND       :: 100%                            ║
+║  ◈ MODE        :: SHADOW                          ║
+║  ◈ STATUS      :: ONLINE                          ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ````
 
-> 🎮 I play games.
-> 💻 I write code.
-> ⚡ I build cool stuff.
-> 🔥 I never stop leveling up.
-
 ---
 
-## 🎮 `GAMING MODE`
-
-```text
-🎯 AIM       ████████████████████ 100%
-⚡ SPEED     ██████████████████░░  90%
-🧠 STRATEGY  █████████████████░░░  85%
-🔥 GRIND     ████████████████████ 100%
-💀 RAGE      ███████████████████░  95%
-```
-
-### 🕹️ LOADOUT
-
-`🎮 GAMING` `💻 CODING` `⚡ AI` `🔥 TECH` `🥷 CYBER` `🚀 OPEN SOURCE`
-
----
-
-## 💻 `TECH ARSENAL`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,git,github,vscode,linux,docker&perline=6" />
-
-</p>
-
----
-
-## 📊 `GITHUB STATS`
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🏆 `ACHIEVEMENTS`
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=6" />
-
-</p>
-
----
-
-## ⚔️ `CURRENT MISSION`
-
-```diff
-+ █ BUILD LEGENDARY PROJECTS
-+ █ MASTER NEW TECHNOLOGIES
-+ █ IMPROVE CODING SKILLS
-+ █ LEVEL UP EVERY DAY
-+ █ BECOME A BETTER GAMER
-
-- █ GIVE UP
-- █ STOP LEARNING
-- █ SKILL ISSUE 😈
-```
-
----
-
-## 📈 `ACTIVITY`
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
-
-</p>
-
----
-
-## 🐍 `CONTRIBUTION SNAKE`
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-## 🖤 `SHADOW CODE`
+## ⚔️ 02 // TECH ARSENAL
 
 <div align="center">
 
-> **"Stay silent. Code hard. Level up.
-> Let the results make the noise."**
+| ⚡ TECHNOLOGY | ◈ POWER LEVEL | STATUS   |
+| :----------- | :------------ | :------- |
+| 🐍 Python    | `███████░░░`  | LEARNING |
+| ☕ Java       | `██████░░░░`  | LEARNING |
+| 🌐 HTML      | `████████░░`  | ACTIVE   |
+| 🎨 CSS       | `███████░░░`  | ACTIVE   |
+| 🗄️ SQL      | `██████░░░░`  | LEARNING |
+| 🛠️ Git      | `███████░░░`  | ACTIVE   |
+| 🐙 GitHub    | `████████░░`  | ACTIVE   |
 
-### ⚡ GAME • CODE • GRIND • REPEAT ⚡
+</div>
+
+---
+
+## 🎯 03 // MISSION CONTROL
+
+<div align="center">
 
 ```text
-███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
-██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
-███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║
-╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
-███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝
+╔══════════════════════════════════════════════════╗
+║                 MISSION CONTROL                  ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  🎮 GAMING       ━━━━━━━━━━━▶ ACTIVE             ║
+║  💻 CODING       ━━━━━━━━━━━▶ IN PROGRESS        ║
+║  🧠 LEARNING     ━━━━━━━━━━━▶ CONTINUOUS         ║
+║  ⚡ ATOMIC MODE  ━━━━━━━━━━━▶ ACTIVATED          ║
+║  🥷 SHADOW MODE  ━━━━━━━━━━━▶ ONLINE             ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
-### 🥷 `SHADOW007 // SYSTEM ONLINE` ⚡
+</div>
+
+---
+
+## 💻 04 // DEVELOPER TERMINAL
+
+```bash
+┌──(SHADOW007㉿SYSTEM)-[~]
+└─$ whoami
+
+> SHADOW007
+> Gamer | Developer | Atomic Coder
+
+┌──(SHADOW007㉿SYSTEM)-[~]
+└─$ ./shadow_mode.sh
+
+[████████████████████] 100%
+
+>> SYSTEM ONLINE
+>> SHADOW MODE ACTIVATED
+>> ALL SYSTEMS GO
+```
+
+---
+
+## 🧬 05 // THE SHADOW CODE
+
+```python
+class Shadow007:
+
+    def __init__(self):
+        self.name = "SHADOW007"
+        self.role = ["Gamer", "Developer"]
+        self.power = "ATOMIC"
+        self.mode = "SHADOW"
+
+    def mission(self):
+        while True:
+            self.learn()
+            self.code()
+            self.build()
+            self.level_up()
+
+    def level_up(self):
+        print("NO LIMITS. ONLY LEVEL UPS.")
+
+shadow = Shadow007()
+```
+
+---
+
+## 🔥 06 // CORE DIRECTIVES
+
+<div align="center">
+
+|  `01` | `02` |  `03` |  `04` |   `05`   |
+| :---: | :--: | :---: | :---: | :------: |
+|   🧠  |  💻  |   ⚡   |   🎯  |    🔥    |
+| THINK | CODE | BUILD | FOCUS | LEVEL UP |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=NO+LIMITS.;ONLY+LEVEL+UPS.;PLAY+HARD.+CODE+HARDER.;STAY+SHADOW." />
+
+### `⚡ SHADOW007 // ATOMIC MODE // END OF TRANSMISSION ⚡`
 
 </div>
 ```
-
-**Important:** create a public repository named exactly **your GitHub username**, then put this entire code into `README.md`. Replace `YOUR_USERNAME` everywhere with your username.
